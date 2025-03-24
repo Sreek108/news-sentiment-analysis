@@ -48,7 +48,7 @@ uvicorn api:app --reload
 ### Deploy on Hugging Face Spaces:
 1. Upload `app.py`, `api.py`, `utils.py`, and `requirements.txt`.
 2. Set up **Hugging Face Spaces** for Streamlit.
-3. Your app will be live at `https://huggingface.co/spaces/your-space-name`.
+3. Your app will be live at `https://huggingface.co/spaces/Sreek7170/News.summarization`.
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to open an issue for bug fixes or enhancements.
